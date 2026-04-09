@@ -14,11 +14,6 @@ This project demonstrates the implementation of a Continuous Integration and Con
 
 The objective is to ensure that code changes are validated through automated testing and deployed in a structured and controlled manner.
 
-<img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/de8f179d-9617-4a32-a473-5535105127e4" />
-<img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/de8f179d-9617-4a32-a473-5535105127e4" />
-
-
-
 ## Project Structure
 
 The repository is organized as follows:
