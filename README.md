@@ -1,4 +1,4 @@
-# Trading journal
+<img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/68658e34-ebfb-41d7-a65d-9017fa4ca0dc" /><img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/68658e34-ebfb-41d7-a65d-9017fa4ca0dc" /># Trading journal
 
 A simple trade journal app built with Python Flask.
 
@@ -48,6 +48,11 @@ Overview
 This project demonstrates the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions for a Flask-based Python application. The pipeline automates the process of building, testing, and deploying the application based on branch activity and release events.
 
 The objective is to ensure that code changes are validated through automated testing and deployed in a structured and controlled manner.
+
+<img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/de8f179d-9617-4a32-a473-5535105127e4" />
+<img width="1273" height="310" alt="image" src="https://github.com/user-attachments/assets/de8f179d-9617-4a32-a473-5535105127e4" />
+
+
 
 ## Project Structure
 
